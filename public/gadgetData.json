@@ -1,0 +1,105 @@
+
+    
+    [
+          {
+            "gadgetId": 1,
+            "category": "Laptop",
+            "name": "Dell XPS 13",
+            "price": "$999",
+            "image": "https://i.ibb.co.com/bX1xLg1/Dell-XPS-13-2.jpg",
+            "ratings": 4.5,
+            "description": "The Dell XPS 13 is a premium laptop with a 13.4-inch InfinityEdge display, Intel i7 processor, and sleek design, perfect for professionals and students."
+          },
+          {
+            "gadgetId": 2,
+            "category": "Laptop",
+            "name": "Dell Flat 12",
+            "price": "$999",
+            "image": "https://i.ibb.co.com/hVw51Ky/Dell-XPS-13-3.jpg",
+            "ratings": 4.5,
+            "description": "The Dell XPS 13 is a premium laptop with a 13.4-inch InfinityEdge display, Intel i7 processor, and sleek design, perfect for professionals and students."
+          },
+          {
+            "gadgetId": 3,
+            "category": "Laptop",
+            "name": "HP Spectre x360",
+            "price": "$1099",
+            "image": "https://i.ibb.co.com/W5zgWnQ/Dell-XPS-13.jpg",
+            "ratings": 4.6,
+            "description": "A powerful 2-in-1 laptop with a vibrant 13.3-inch touchscreen display and a long-lasting battery, great for on-the-go productivity."
+          },
+          {
+            "gadgetId": 4,
+            "category": "Phone",
+            "name": "iPhone 14 Pro",
+            "price": "$999",
+            "image": "https://i.ibb.co.com/h9LV5NN/Apple-i-Phone-14-Pro-i-Phone-14-Pro-Max-hero-220907-Full-Bleed-Image-jpg-xlarge.jpg",
+            "ratings": 4.8,
+            "description": "The latest iPhone model featuring a stunning 6.1-inch Super Retina XDR display, A16 Bionic chip, and a triple-camera system for exceptional photography."
+          },
+          {
+            "gadgetId": 5,
+            "category": "Phone",
+            "name": "realme 7 Pro",
+            "price": "$999",
+            "image": "https://i.ibb.co.com/j5HS5Qz/Mobile-Phone-Prices-in-Bangladesh-2021-780x470.jpg",
+            "ratings": 4.8,
+            "description": "The latest iPhone model featuring a stunning 6.1-inch Super Retina XDR display, A16 Bionic chip, and a triple-camera system for exceptional photography."
+          },
+          {
+            "gadgetId": 6,
+            "category": "Phone",
+            "name": "iPhone SE",
+            "price": "$999",
+            "image": "https://i.ibb.co.com/Ms5KLcr/pexels-photo-336948.webp",
+            "ratings": 4.8,
+            "description": "The latest iPhone model featuring a stunning 6.1-inch Super Retina XDR display, A16 Bionic chip, and a triple-camera system for exceptional photography."
+          },
+          {
+            "gadgetId": 7,
+            "category": "Phone",
+            "name": "Samsung Galaxy S22",
+            "price": "$799",
+            "image": "https://i.ibb.co.com/7N7FPcy/thumb-1920-451001.jpg",
+            "ratings": 4.7,
+            "description": "Samsung's flagship phone with a 6.2-inch Dynamic AMOLED display, Exynos 2200 processor, and an advanced camera system for sharp photos."
+          },
+          {
+            "gadgetId": 8,
+            "category": "SmartWatch",
+            "name": "Apple Watch Series 8",
+            "price": "$399",
+            "image": "https://i.ibb.co.com/5h3dpbt/download-1.jpg",
+            "ratings": 4.9,
+            "description": "The latest Apple Watch with advanced health tracking, new temperature sensor, crash detection, and enhanced performance."
+          },
+          {
+            "gadgetId": 9,
+            "category": "SmartWatch",
+            "name": "Samsung Galaxy Watch 5",
+            "price": "$279",
+            "image": "https://i.ibb.co.com/tD7tnTJ/download.jpg",
+            "ratings": 4.5,
+            "description": "A feature-packed smartwatch with a durable design, enhanced sleep tracking, and compatibility with Samsung Health for a holistic health approach."
+          },
+          {
+            "gadgetId": 10,
+            "category": "MacBook",
+            "name": "MacBook Air M2",
+            "price": "$1199",
+            "image": "https://i.ibb.co.com/c6KTVsW/download-2.jpg",
+            "ratings": 4.8,
+            "description": "Apple's latest MacBook Air with the powerful M2 chip, a lightweight design, and a 13.6-inch Liquid Retina display."
+          },
+          {
+            "gadgetId": 11,
+            "category": "MacBook",
+            "name": "MacBook Pro 14-inch M2",
+            "price": "$1999",
+            "image": "https://i.ibb.co.com/Wnn98Vm/macbook-2048px-9765.jpg",
+            "ratings": 4.9,
+            "description": "A high-performance MacBook with the M2 Pro chip, a stunning 14.2-inch Liquid Retina XDR display, and enhanced battery life for professionals."
+          }
+
+
+        ]
